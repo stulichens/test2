@@ -15,5 +15,5 @@ main()
     }
     printf("\n"); /*每一行后换行*/
   }
-  getch();
+  getch1();
 }
